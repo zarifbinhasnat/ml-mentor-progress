@@ -1,8 +1,8 @@
 {
-  "day": 11,
-  "last_concept": "Gradient descent (batch/SGD/mini-batch)",
-  "last_concept_number": 10,
+  "day": 12,
+  "last_concept": "The learning rate",
+  "last_concept_number": 11,
   "mode": "auto",
   "algo_lang": "C++",
-  "last_run_date": "2026-06-10"
+  "last_run_date": "2026-06-13"
 }
