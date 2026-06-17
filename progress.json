@@ -1,8 +1,8 @@
 {
-  "day": 15,
-  "last_concept": "Nesterov Accelerated Gradient",
-  "last_concept_number": 14,
+  "day": 16,
+  "last_concept": "AdaGrad & RMSprop",
+  "last_concept_number": 15,
   "mode": "auto",
   "algo_lang": "C++",
-  "last_run_date": "2026-06-16"
+  "last_run_date": "2026-06-17"
 }
