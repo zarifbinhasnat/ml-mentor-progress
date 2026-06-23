@@ -1,8 +1,8 @@
 {
-  "day": 21,
-  "last_concept_number": 20,
-  "last_concept": "Vanishing gradients",
-  "last_run_date": "2026-06-22",
+  "day": 22,
+  "last_concept_number": 21,
+  "last_concept": "Exploding gradients & clipping",
+  "last_run_date": "2026-06-24",
   "mode": "auto",
   "algo_lang": "C++"
 }
