@@ -1,7 +1,7 @@
 {
-  "day": 26,
-  "last_concept_number": 25,
-  "last_concept": "L1 & sparsity",
+  "day": 27,
+  "last_concept_number": 26,
+  "last_concept": "Dropout",
   "last_run_date": "2026-06-27",
   "mode": "auto",
   "algo_lang": "C++"
