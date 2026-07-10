@@ -1,8 +1,8 @@
 {
-  "day": 35,
-  "last_concept_number": 34,
-  "last_concept": "Feature maps & channels",
-  "last_run_date": "2026-07-09",
+  "day": 36,
+  "last_concept_number": 35,
+  "last_concept": "Pooling & downsampling",
+  "last_run_date": "2026-07-10",
   "mode": "auto",
   "algo_lang": "C++"
 }
