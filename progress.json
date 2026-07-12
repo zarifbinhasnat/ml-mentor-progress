@@ -1,8 +1,8 @@
 {
-  "day": 37,
-  "last_concept_number": 36,
-  "last_concept": "Receptive field",
-  "last_run_date": "2026-07-11",
+  "day": 38,
+  "last_concept_number": 37,
+  "last_concept": "1x1 conv & bottlenecks",
+  "last_run_date": "2026-07-12",
   "mode": "auto",
   "algo_lang": "C++"
 }
