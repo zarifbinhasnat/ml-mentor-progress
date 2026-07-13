@@ -1,8 +1,8 @@
 {
-  "day": 38,
-  "last_concept_number": 37,
-  "last_concept": "1x1 conv & bottlenecks",
-  "last_run_date": "2026-07-12",
+  "day": 39,
+  "last_concept_number": 38,
+  "last_concept": "LeNet & AlexNet",
+  "last_run_date": "2026-07-13",
   "mode": "auto",
   "algo_lang": "C++"
 }
