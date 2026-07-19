@@ -215,10 +215,21 @@ Reinforcement learning, RAG, and where the field is heading.
 
 ---
 
+## Special sessions
+
+Outside the regular Day N / Concept N cadence, bonus capstones occasionally get added when they're tied to an actual external syllabus (a course lecture, an exam) rather than the next roadmap concept. These don't advance `progress.json`.
+
+| File | Built from |
+|---|---|
+| `LESSON_2026_07_19_SPECIAL_ATTENTION_TRANSFORMERS.md` | CSE 4621 Lecture 9 ("Language Modeling") + "Maths Behind Transformers" slide decks — a problem-first, numerically worked exam-prep capstone spanning language modeling, word embeddings, RNN/LSTM (cross-referencing Days 46–49), and the full attention/Transformer Q/K/V formalism. |
+
+---
+
 ## Repository layout
 
 ```
-LESSON_YYYY_MM_DD_DAY_N.md   — daily lesson files
-progress.json                — bot state (day, last concept, mode)
-README.md                    — this file
+LESSON_YYYY_MM_DD_DAY_N.md              — daily lesson files
+LESSON_YYYY_MM_DD_SPECIAL_*.md          — bonus/off-roadmap capstones (see "Special sessions")
+progress.json                           — bot state (day, last concept, mode)
+README.md                               — this file
 ```
