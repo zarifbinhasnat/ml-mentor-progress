@@ -207,9 +207,11 @@ Reinforcement learning, RAG, and where the field is heading.
 
 ## Progress
 
-**Current day:** 12 / 112  
-**Last concept:** The learning rate (Concept 11)  
-**Next up:** Epochs, batches, iterations (Concept 12)
+**Current day:** 52 / 112  
+**Last concept:** Fixed-context bottleneck (Concept 52)  
+**Next up:** Attention intuition — soft lookup (Concept 53)
+
+**Pending backfill:** Concept 50, Bidirectional RNNs, was intentionally skipped to prioritize the Seq2seq/bottleneck lead-in into Phase 6 — see `progress.json`'s `skipped_concepts`. It still needs its own lesson.
 
 ---
 

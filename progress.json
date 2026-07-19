@@ -1,8 +1,16 @@
 {
-  "day": 46,
-  "last_concept_number": 44,
-  "last_concept": "Dilated/atrous conv",
+  "day": 53,
+  "last_concept_number": 52,
+  "last_concept": "Fixed-context bottleneck",
   "last_run_date": "2026-07-19",
   "mode": "auto",
-  "algo_lang": "C++"
+  "algo_lang": "C++",
+  "skipped_concepts": [
+    {
+      "number": 50,
+      "name": "Bidirectional RNNs",
+      "reason": "Intentionally deferred by explicit user request (RNN/LSTM section done as 5/6 days: 45-49, skipping 50) so concepts 51-52 could be covered as an 'attention lead-in' in the same session.",
+      "status": "pending backfill"
+    }
+  ]
 }
