@@ -1,8 +1,8 @@
 {
-  "day": 54,
-  "last_concept_number": 53,
-  "last_concept": "Attention intuition (soft lookup)",
-  "last_run_date": "2026-07-20",
+  "day": 55,
+  "last_concept_number": 54,
+  "last_concept": "Query, Key, Value",
+  "last_run_date": "2026-07-21",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
