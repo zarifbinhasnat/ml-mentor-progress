@@ -1,8 +1,8 @@
 {
-  "day": 58,
-  "last_concept_number": 57,
-  "last_concept": "Self- vs cross-attention",
-  "last_run_date": "2026-07-24",
+  "day": 59,
+  "last_concept_number": 58,
+  "last_concept": "Sinusoidal positional encoding",
+  "last_run_date": "2026-07-25",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
