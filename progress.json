@@ -1,8 +1,8 @@
 {
-  "day": 62,
-  "last_concept_number": 61,
-  "last_concept": "Encoder-only vs decoder-only vs enc-dec",
-  "last_run_date": "2026-07-28",
+  "day": 63,
+  "last_concept_number": 62,
+  "last_concept": "Causal masking",
+  "last_run_date": "2026-07-29",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
