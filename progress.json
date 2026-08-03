@@ -1,8 +1,8 @@
 {
-  "day": 67,
-  "last_concept_number": 66,
-  "last_concept": "Embeddings → contextual embeddings",
-  "last_run_date": "2026-08-02",
+  "day": 68,
+  "last_concept_number": 67,
+  "last_concept": "BERT & masked LM",
+  "last_run_date": "2026-08-03",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
