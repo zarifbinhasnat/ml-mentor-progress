@@ -1,8 +1,8 @@
 {
-  "day": 73,
-  "last_concept_number": 72,
-  "last_concept": "RLHF overview",
-  "last_run_date": "2026-08-08",
+  "day": 74,
+  "last_concept_number": 73,
+  "last_concept": "LoRA",
+  "last_run_date": "2026-08-09",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
