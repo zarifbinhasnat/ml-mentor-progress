@@ -1,8 +1,8 @@
 {
-  "day": 76,
-  "last_concept_number": 75,
-  "last_concept": "Knowledge distillation",
-  "last_run_date": "2026-08-11",
+  "day": 77,
+  "last_concept_number": 76,
+  "last_concept": "Mixture of Experts",
+  "last_run_date": "2026-08-12",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
