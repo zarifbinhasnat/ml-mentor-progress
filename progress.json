@@ -1,8 +1,8 @@
 {
-  "day": 78,
-  "last_concept_number": 77,
-  "last_concept": "Scaling laws",
-  "last_run_date": "2026-08-13",
+  "day": 79,
+  "last_concept_number": 78,
+  "last_concept": "Autoencoders",
+  "last_run_date": "2026-08-14",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
