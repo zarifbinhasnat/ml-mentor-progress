@@ -1,8 +1,8 @@
 {
-  "day": 86,
-  "last_concept_number": 85,
-  "last_concept": "Score-based generative models",
-  "last_run_date": "2026-08-21",
+  "day": 87,
+  "last_concept_number": 86,
+  "last_concept": "Classifier-free guidance",
+  "last_run_date": "2026-08-22",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
