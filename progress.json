@@ -1,8 +1,8 @@
 {
-  "day": 92,
-  "last_concept_number": 91,
-  "last_concept": "SimCLR",
-  "last_run_date": "2026-08-27",
+  "day": 93,
+  "last_concept_number": 92,
+  "last_concept": "Masked autoencoders (MAE)",
+  "last_run_date": "2026-08-28",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
