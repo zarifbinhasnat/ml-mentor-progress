@@ -1,8 +1,8 @@
 {
-  "day": 94,
-  "last_concept_number": 93,
-  "last_concept": "DINO & self-distillation",
-  "last_run_date": "2026-08-29",
+  "day": 95,
+  "last_concept_number": 94,
+  "last_concept": "U-Net & skip connections",
+  "last_run_date": "2026-08-30",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
