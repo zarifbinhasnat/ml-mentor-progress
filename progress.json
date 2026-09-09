@@ -1,8 +1,8 @@
 {
-  "day": 102,
-  "last_concept_number": 101,
-  "last_concept": "Throughput vs latency, batching",
-  "last_run_date": "2026-09-08",
+  "day": 103,
+  "last_concept_number": 102,
+  "last_concept": "ONNX/TorchScript export",
+  "last_run_date": "2026-09-09",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
