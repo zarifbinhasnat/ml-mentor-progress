@@ -1,8 +1,8 @@
 {
-  "day": 106,
-  "last_concept_number": 105,
-  "last_concept": "Q-learning & DQN",
-  "last_run_date": "2026-09-12",
+  "day": 107,
+  "last_concept_number": 106,
+  "last_concept": "Policy gradients / REINFORCE",
+  "last_run_date": "2026-09-13",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
