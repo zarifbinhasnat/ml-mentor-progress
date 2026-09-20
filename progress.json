@@ -1,8 +1,8 @@
 {
-  "day": 111,
-  "last_concept_number": 110,
-  "last_concept": "Multimodal models",
-  "last_run_date": "2026-09-19",
+  "day": 112,
+  "last_concept_number": 111,
+  "last_concept": "Long-context techniques",
+  "last_run_date": "2026-09-20",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
