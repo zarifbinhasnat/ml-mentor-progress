@@ -1,8 +1,8 @@
 {
-  "day": 112,
-  "last_concept_number": 111,
-  "last_concept": "Long-context techniques",
-  "last_run_date": "2026-09-20",
+  "day": 113,
+  "last_concept_number": 112,
+  "last_concept": "Evaluation, benchmarks & pitfalls",
+  "last_run_date": "2026-09-21",
   "mode": "auto",
   "algo_lang": "C++",
   "skipped_concepts": [
