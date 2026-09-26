@@ -1,10 +1,10 @@
 {
-  "day": 117,
+  "day": 118,
   "last_concept_number": 112,
-  "last_concept": "Consolidation Day - Phase 1 (Concepts 1-12: neuron, activations, loss, backprop, gradient descent), 2026-09-25",
-  "last_run_date": "2026-09-25",
+  "last_concept": "Consolidation Day - Phase 2 (Concepts 13-23: optimizers, initialization, vanishing/exploding gradients), 2026-09-26",
+  "last_run_date": "2026-09-26",
   "mode": "auto",
   "algo_lang": "C++",
-  "last_consolidated_phase": 1,
-  "next_consolidation_target": "Phase 2 (Concepts 13-23: optimizers, initialization, vanishing/exploding gradients)"
+  "last_consolidated_phase": 2,
+  "next_consolidation_target": "Phase 3 (Concepts 24-31: weight decay, dropout, batch/layer norm, augmentation, early stopping, label smoothing)"
 }
