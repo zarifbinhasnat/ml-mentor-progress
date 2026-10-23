@@ -1,10 +1,10 @@
 {
-  "day": 142,
+  "day": 143,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Loss-is-a-likelihood thread (MSE/Gaussian NLL, cross-entropy, VAE ELBO, diffusion eps-loss, RLHF KL), 2026-10-21",
-  "last_run_date": "2026-10-21",
+  "last_concept": "Consolidation Day - Identity-path thread (ResNet skip, LSTM cell state, transformer residual stream, U-Net skips), 2026-10-23",
+  "last_run_date": "2026-10-23",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: normalisation BatchNorm/LayerNorm/RMSNorm)"
 }
