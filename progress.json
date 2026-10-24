@@ -1,10 +1,10 @@
 {
-  "day": 143,
+  "day": 144,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Identity-path thread (ResNet skip, LSTM cell state, transformer residual stream, U-Net skips), 2026-10-23",
-  "last_run_date": "2026-10-23",
+  "last_concept": "Consolidation Day - Normalisation thread (BatchNorm, LayerNorm, RMSNorm: which axis the statistics average over), 2026-10-24",
+  "last_run_date": "2026-10-24",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: normalisation BatchNorm/LayerNorm/RMSNorm)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: the optimisation story SGD -> Adam -> AdamW -> warmup/cosine schedules)"
 }
