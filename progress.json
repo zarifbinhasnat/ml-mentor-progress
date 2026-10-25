@@ -1,10 +1,10 @@
 {
-  "day": 144,
+  "day": 145,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Normalisation thread (BatchNorm, LayerNorm, RMSNorm: which axis the statistics average over), 2026-10-24",
-  "last_run_date": "2026-10-24",
+  "last_concept": "Consolidation Day - Optimisation thread (SGD, momentum, Adam, AdamW, warmup/cosine: one learning rate cannot fit every direction), 2026-10-25",
+  "last_run_date": "2026-10-25",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: the optimisation story SGD -> Adam -> AdamW -> warmup/cosine schedules)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: the generative story autoencoder -> VAE -> GAN -> diffusion and what each leaves in the frequency domain)"
 }
