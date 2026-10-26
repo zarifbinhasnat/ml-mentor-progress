@@ -1,10 +1,10 @@
 {
-  "day": 145,
+  "day": 146,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Optimisation thread (SGD, momentum, Adam, AdamW, warmup/cosine: one learning rate cannot fit every direction), 2026-10-25",
-  "last_run_date": "2026-10-25",
+  "last_concept": "Consolidation Day - Generative thread (autoencoder, VAE, GAN, diffusion: each leaves a different spectral fingerprint), 2026-10-26",
+  "last_run_date": "2026-10-26",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: the generative story autoencoder -> VAE -> GAN -> diffusion and what each leaves in the frequency domain)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency - mixed precision, KV cache, quantization, batching and what each trades away)"
 }
