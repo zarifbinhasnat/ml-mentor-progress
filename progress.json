@@ -1,10 +1,10 @@
 {
-  "day": 146,
+  "day": 147,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Generative thread (autoencoder, VAE, GAN, diffusion: each leaves a different spectral fingerprint), 2026-10-26",
-  "last_run_date": "2026-10-26",
+  "last_concept": "Consolidation Day - Efficiency thread (mixed precision, quantization, KV cache, batching: each buys one resource by spending another), 2026-10-27",
+  "last_run_date": "2026-10-27",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency - mixed precision, KV cache, quantization, batching and what each trades away)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: evaluation and failure modes - benchmarks, leakage, calibration, why metrics lie)"
 }
