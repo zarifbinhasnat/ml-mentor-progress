@@ -1,10 +1,10 @@
 {
-  "day": 148,
+  "day": 149,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Evaluation thread (calibration, benchmark noise, leakage: a metric is a measurement with error bars and a threat model), 2026-10-28",
-  "last_run_date": "2026-10-28",
+  "last_concept": "Consolidation Day - Optimisation-failure thread (init scale, gradient flow, learning-rate stability window, reading loss curves: training is stable only inside a window of scales), 2026-10-29",
+  "last_run_date": "2026-10-29",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: optimisation and training failure modes - vanishing/exploding gradients, init, learning rate, reading loss curves)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: regularization as constraining the function class - weight decay, L1, dropout, normalization, augmentation, early stopping, label smoothing)"
 }
