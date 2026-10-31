@@ -1,10 +1,10 @@
 {
-  "day": 150,
+  "day": 151,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Regularization thread (constraining the function class: L2, L1, early stopping, noise injection, normalization), 2026-10-30",
-  "last_run_date": "2026-10-30",
+  "last_concept": "Consolidation Day - Sequence-modelling thread (memory as a path: RNN forgetting, LSTM gates, attention as direct access, positional encoding as a filter bank, KV cache), 2026-10-31",
+  "last_run_date": "2026-10-31",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: sequence modelling - RNN forgetting, LSTM gates, attention as soft lookup, positional encoding, KV cache)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: generative modelling - autoencoders, VAE, GAN, diffusion, and what each leaves in the spectrum)"
 }
