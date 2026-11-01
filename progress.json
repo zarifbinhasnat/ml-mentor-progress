@@ -1,10 +1,10 @@
 {
-  "day": 151,
+  "day": 152,
   "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Sequence-modelling thread (memory as a path: RNN forgetting, LSTM gates, attention as direct access, positional encoding as a filter bank, KV cache), 2026-10-31",
-  "last_run_date": "2026-10-31",
+  "last_concept": "Consolidation Day - Generative-modelling thread (VAE blur, GAN upsampling grid, diffusion as a frequency curriculum; Phase 8), 2026-11-01",
+  "last_run_date": "2026-11-01",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: generative modelling - autoencoders, VAE, GAN, diffusion, and what each leaves in the spectrum)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)"
 }
