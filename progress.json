@@ -1,10 +1,15 @@
 {
-  "day": 152,
-  "last_concept_number": 114,
-  "last_concept": "Consolidation Day - Generative-modelling thread (VAE blur, GAN upsampling grid, diffusion as a frequency curriculum; Phase 8), 2026-11-01",
-  "last_run_date": "2026-11-01",
+  "day": 154,
+  "last_concept_number": 116,
+  "last_concept": "Memory hierarchy: registers→cache→DRAM→HBM, locality",
+  "last_run_date": "2026-11-02",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
-  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)"
+  "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
+  "course": "CSE 4711 Artificial Intelligence",
+  "course_week_override": null,
+  "last_course_topic": "W2: UCS, IDS & comparison of uninformed search",
+  "last_paper": "",
+  "last_radar_theme": ""
 }
