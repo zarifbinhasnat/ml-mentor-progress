@@ -205,6 +205,123 @@ Reinforcement learning, RAG, and where the field is heading.
 
 ---
 
+## v2 — হার্ডওয়্যার, ফ্রন্টিয়ার এআই ও CSE 4711
+
+Day 152 থেকে রুটিন v2-তে গেছে। এখন থেকে সব নতুন লেখা বাংলায়; technical term ইংরেজিতেই থাকে। পুরোনো lesson, graph, README অংশ এবং `progress.json`-এর ক্ষেত্র অপরিবর্তিত।
+
+### নতুন lesson format
+প্রতিদিনের lesson-এ থাকে: ⚙️ গভীর পাঠ (Deep Dive, back-of-envelope হিসাবসহ) · 🎓 কোর্স কর্নার (CSE 4711) · 🏋️ গন্টলেট (C++) · 📄 পেপার কর্নার (শুক্রবার) · 🔭 রিসার্চ রাডার (বুধবার) · 🏗️ ব্লুপ্রিন্ট (সপ্তাহে ≈ ২ বার) · 🗺️ পরের পথ। **"Pythonic Edge" ও "Signal Lab" Day 152 থেকে বন্ধ**; আগের lesson-এ সেগুলো যেমন ছিল তেমনই আছে।
+
+### Track B — Phase 12–17
+
+**Phase 12 — হার্ডওয়্যারের ভিত্তি**
+
+| # | Concept |
+|---|---|
+| 115 | Compute বনাম memory: FLOPs, bytes, latency বনাম bandwidth |
+| 116 | Memory hierarchy: registers → cache → DRAM → HBM, locality |
+| 117 | Arithmetic intensity ও roofline model |
+| 118 | CPU parallelism: SIMD, multicore, cache-tiled matmul |
+| 119 | Number formats I: IEEE float, fp32/fp16/bf16 |
+| 120 | Number formats II: int8, fp8, fp4, block/micro-scaling |
+| 121 | GPU বনাম CPU: throughput machine ও latency hiding |
+| 122 | GPU architecture: SM, warp, SIMT, divergence |
+| 123 | GPU memory: HBM, shared memory, register, coalescing, bank conflict |
+| 124 | Tensor core ও shape 8/16-এর গুণিতক কেন |
+
+**Phase 13 — Kernels**
+
+| # | Concept |
+|---|---|
+| 125 | CUDA programming model: grid/block/thread |
+| 126 | Naive matmul → shared-memory tiled matmul |
+| 127 | Occupancy ও profiling mindset |
+| 128 | Kernel fusion |
+| 129 | Reduction ও online softmax |
+| 130 | Triton |
+| 131 | FlashAttention revisited |
+| 132 | FlashAttention-2/3 |
+| 133 | torch.compile |
+| 134 | CUDA graphs ও launch overhead |
+
+**Phase 14 — Inference engineering**
+
+| # | Concept |
+|---|---|
+| 135 | Prefill বনাম decode |
+| 136 | KV cache math |
+| 137 | MQA ও GQA |
+| 138 | MLA (DeepSeek-V2) |
+| 139 | PagedAttention ও vLLM |
+| 140 | Continuous batching |
+| 141 | Prefix caching / RadixAttention |
+| 142 | Speculative decoding, EAGLE, MTP |
+| 143 | Weight-only quantization: GPTQ, AWQ |
+| 144 | Activation outlier, SmoothQuant, KV-cache quantization |
+| 145 | Prefill/decode disaggregation |
+| 146 | Long-context: sparse attention ও NSA |
+
+**Phase 15 — Distributed training**
+
+| # | Concept |
+|---|---|
+| 147 | Collectives ও ring algorithm |
+| 148 | Interconnects: PCIe, NVLink, InfiniBand |
+| 149 | DDP, ZeRO, FSDP ও communication cost |
+| 150 | Tensor parallelism |
+| 151 | Pipeline parallelism |
+| 152 | DualPipe |
+| 153 | Expert parallelism, DeepEP |
+| 154 | DeepSeekMoE |
+| 155 | Auxiliary-loss-free load balancing |
+| 156 | FP8 training ও DeepGEMM |
+| 157 | Activation recompute ও memory-budget |
+| 158 | Fault tolerance, checkpointing, 3FS |
+
+**Phase 16 — Reasoning ও RL**
+
+| # | Concept |
+|---|---|
+| 159 | Q-learning থেকে policy gradient |
+| 160 | PPO for LLMs |
+| 161 | GRPO |
+| 162 | DeepSeek-R1 ও R1-Zero |
+| 163 | Verifiable reward ও reward model |
+| 164 | Test-time compute: beam, best-of-N, MCTS |
+| 165 | Reasoning distillation |
+| 166 | RL infrastructure |
+
+**Phase 17 — Architecture frontier**
+
+| # | Concept |
+|---|---|
+| 167 | Muon |
+| 168 | SSM ও Mamba |
+| 169 | Linear attention ও hybrid |
+| 170 | Capstone: frontier model-এর training + serving খরচ |
+
+১৭০-এর পর "Frontier Review Day": paper বা Research Radar theme ধরে শুরু থেকে শেষ পর্যন্ত আলোচনা।
+
+### 🎓 কোর্স কর্নার (CSE 4711, IUT Winter 2026–27)
+
+| সময় | অবস্থা |
+|---|---|
+| 26 Oct – 11 Dec 2026 | Class, Week 1–7 |
+| 14 – 25 Dec 2026 | Mid-semester exam (Week 1–7), তার আগে drill |
+| 28 Dec 2026 – 12 Feb 2027 | Class, Week 8–14 |
+| 15 – 26 Feb 2027 | Final exam (Week 8–14), drill |
+| 22 Mar 2027 | Summer semester শুরু |
+
+সাপ্তাহিক বিষয়: W1 Intro/agent · W2 Uninformed search · W3 Informed search · W4–5 CSP · W6 Adversarial search · W7 Uncertainty/utility · W8–9 MDP · W10–11 RL · W12 Probability · W13–14 Bayes net। প্রতিদিন একটা হাতে-কলমে trace ও একটা formulate-and-justify প্রশ্ন থাকে।
+
+### 📄 পেপার কর্নার (শুক্রবার)
+ক্রম: Roofline → FlashAttention → FlashAttention-2 → FlashAttention-3 → Megatron-LM → ZeRO → PagedAttention → LLM.int8() → GPTQ → AWQ → SmoothQuant → Speculative Decoding → EAGLE → SGLang → DeepSeekMoE → DeepSeek-V2 → DeepSeek-V3 → DeepSeekMath → DeepSeek-R1 → Native Sparse Attention → Mamba।
+
+### 🔭 রিসার্চ রাডার (বুধবার)
+১০টা theme পালা করে: reasoning ও test-time compute · agents · long context ও memory · efficient architecture · low-precision · inference systems · multimodal ও world model · diffusion LM · interpretability ও alignment · data ও small model। প্রতিবার সাম্প্রতিক ২–৩টা কাজ, শুধু যা সত্যিই খুলে দেখা হয়েছে সেগুলোর link সহ।
+
+---
+
 ## Progress
 
 **Current day:** 52 / 112  
