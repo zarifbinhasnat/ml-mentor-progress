@@ -1,15 +1,15 @@
 {
-  "day": 155,
-  "last_concept_number": 117,
-  "last_concept": "Arithmetic intensity & the roofline model",
-  "last_run_date": "2026-11-02",
+  "day": 156,
+  "last_concept_number": 118,
+  "last_concept": "CPU parallelism: SIMD, multicore, cache-tiled matmul",
+  "last_run_date": "2026-11-03",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
   "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
   "course": "CSE 4711 Artificial Intelligence",
   "course_week_override": null,
-  "last_course_topic": "W2: State space, tree search vs graph search",
+  "last_course_topic": "W2: UCS, IDS & search algorithm properties",
   "last_paper": "",
   "last_radar_theme": ""
 }
