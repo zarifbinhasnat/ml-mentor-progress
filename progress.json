@@ -1,15 +1,15 @@
 {
-  "day": 158,
-  "last_concept_number": 120,
-  "last_concept": "Number formats II: int8, fp8 (E4M3/E5M2), fp4, block/micro-scaling",
-  "last_run_date": "2026-11-05",
+  "day": 159,
+  "last_concept_number": 121,
+  "last_concept": "GPU vs CPU: throughput machines & latency hiding",
+  "last_run_date": "2026-11-06",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
   "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
   "course": "CSE 4711 Artificial Intelligence",
   "course_week_override": null,
-  "last_course_topic": "W2: Tree vs graph search, cycles, goal-test timing (UCS)",
-  "last_paper": "",
+  "last_course_topic": "W2: Depth-limited & iterative-deepening search (IDS)",
+  "last_paper": "Roofline (Williams 2009)",
   "last_radar_theme": "Reasoning models & test-time compute scaling"
 }
