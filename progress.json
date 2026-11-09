@@ -1,15 +1,15 @@
 {
-  "day": 161,
-  "last_concept_number": 123,
-  "last_concept": "GPU memory: HBM, shared memory/SRAM, registers, coalescing, bank conflicts",
-  "last_run_date": "2026-11-08",
+  "day": 162,
+  "last_concept_number": 124,
+  "last_concept": "Tensor cores & why shapes should be multiples of 8/16",
+  "last_run_date": "2026-11-09",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
   "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
   "course": "CSE 4711 Artificial Intelligence",
   "course_week_override": null,
-  "last_course_topic": "W2: DFS/BFS/IDS comparison, tree vs graph search",
+  "last_course_topic": "W3: A* search, f=g+h, admissible heuristic and optimality",
   "last_paper": "Roofline (Williams 2009)",
   "last_radar_theme": "Reasoning models & test-time compute scaling"
 }
