@@ -1,15 +1,15 @@
 {
-  "day": 166,
-  "last_concept_number": 128,
-  "last_concept": "Kernel fusion: why elementwise ops are memory-bound",
-  "last_run_date": "2026-11-13",
+  "day": 167,
+  "last_concept_number": 129,
+  "last_concept": "Reductions & online softmax",
+  "last_run_date": "2026-11-14",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
   "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
   "course": "CSE 4711 Artificial Intelligence",
   "course_week_override": null,
-  "last_course_topic": "W3: Heuristic classification & unknown-h range (admissible/consistent/expansion order)",
+  "last_course_topic": "W3: Relaxed-problem heuristics, dominance & 8-puzzle-style hand-trace",
   "last_paper": "FlashAttention",
   "last_radar_theme": "Agents: tool use, long-horizon tasks, computer/code agents, agent evaluation"
 }
