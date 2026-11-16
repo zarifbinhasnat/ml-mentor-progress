@@ -1,15 +1,15 @@
 {
-  "day": 168,
-  "last_concept_number": 130,
-  "last_concept": "Triton: block-level programming",
-  "last_run_date": "2026-11-15",
+  "day": 169,
+  "last_concept_number": 131,
+  "last_concept": "FlashAttention revisited: full IO-aware tiling derivation",
+  "last_run_date": "2026-11-16",
   "mode": "auto",
   "algo_lang": "C++",
   "last_consolidated_phase": "all",
   "next_consolidation_target": "Full-roadmap review continues (pick a new cross-phase thread: efficiency & serving - mixed precision, KV cache, batching, quantization, and what each trades away)",
   "course": "CSE 4711 Artificial Intelligence",
   "course_week_override": null,
-  "last_course_topic": "W3: Inconsistent heuristic, graph-search A* & reopening",
+  "last_course_topic": "W4: CSP formulation, backtracking search & forward checking",
   "last_paper": "FlashAttention",
   "last_radar_theme": "Agents: tool use, long-horizon tasks, computer/code agents, agent evaluation"
 }
